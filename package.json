@@ -9,6 +9,10 @@
   "files": [
     "src"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/branchesGit/generator-reactantd.git"
+  },
   "keywords": [
     "yeoman-generator",
     "antd"
@@ -16,6 +20,10 @@
   "author": "branches",
   "license": "MIT",
   "devDependencies": {
-    "yeoman-generator": "^0.24.1"
+    "chai": "^3.5.0",
+    "chalk": "^1.1.3",
+    "mocha": "^3.2.0",
+    "yeoman-generator": "^0.24.1",
+    "yosay": "^1.2.1"
   }
 }
