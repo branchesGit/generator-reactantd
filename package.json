@@ -1,0 +1,21 @@
+{
+  "name": "generator-reactantd",
+  "version": "1.0.0",
+  "description": "'react yoman generator'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "src"
+  ],
+  "keywords": [
+    "yeoman-generator",
+    "antd"
+  ],
+  "author": "branches",
+  "license": "MIT",
+  "devDependencies": {
+    "yeoman-generator": "^0.24.1"
+  }
+}
